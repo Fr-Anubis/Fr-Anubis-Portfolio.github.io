@@ -14,7 +14,7 @@ body{
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    height: 1000px;
+    height: 800px;
     width: 100%;
     
 }
@@ -54,10 +54,11 @@ a {
 }
 
 .titre-intro{
+    
     color: white;
-    font-size: 3rem;
+    font-size: 2rem;
     text-align: center;
-    margin-top: 15rem;
+    margin-top: 12rem;
     text-shadow:
         -1px -1px 0 #000,  
          1px -1px 0 #000000,
@@ -65,21 +66,21 @@ a {
          1px  1px 0 #000;
 }
 
-.partie-1{
-    /* background-image: url(/image/fond-2.jpg);
+/* .partie-1{
+    background-image: url(/image/fond-2.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     height: 1000px;
-    width: 100%; */
-    /* background-color: rgb(0, 0, 0);
+    width: 100%;
+    background-color: rgb(0, 0, 0);
     border: solid 0.3rem rgb(0, 0, 0);
     border-image: linear-gradient(to right, rgb(2, 26, 238),rgb(0, 0, 0), rgb(195, 0, 255));
-    border-image-slice: 1; */
+    border-image-slice: 1;
     
-    /* display: flex;
-    flex-wrap: wrap; */
-}
+    display: flex;
+    flex-wrap: wrap;
+} */
 
 h2 {
     color: rgb(255, 255, 255);
